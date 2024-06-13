@@ -18,7 +18,7 @@ Expocity Albania synon të krijojë një platformë që do të prezantojë një 
 <br>
 
 <img src="https://www.expocity.al/wp-content/uploads/2023/01/TTO-900x540-100-1.jpg" width="700" height="400">
-<h3>Fusni te dhenat e meposhtme</h3>
+<!--<h3>Fusni te dhenat e meposhtme</h3>
 <br>
 <form>
 <label>Emri</label><br>
@@ -51,7 +51,7 @@ Expocity Albania synon të krijojë një platformë që do të prezantojë një 
 <h3 style="color:MediumSeaGreen;">Cfare paraqet projekti juaj ? </h3>
 <textarea cols="40" rows="10"></textarea>
 </form>
-<br>
+<br>-->
 
 <h2 style="background-color:DodgerBlue;"align="center">Cmimet per 3 vendet e para</h2>
 
