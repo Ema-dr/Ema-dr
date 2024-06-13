@@ -83,7 +83,7 @@ Expocity Albania synon të krijojë një platformë që do të prezantojë një 
 
 <a href="https://www.google.com/maps/place/Expocity/@41.3692826,19.6862402,15z/data=!4m6!3m5!1s0x13502ebd158c87db:0x6c2a89525133aa95!8m2!3d41.3692826!4d19.6862402!16s%2Fg%2F11f122ppfp?hl=en&entry=ttu" target="_blank"><h2>Vendodhja jone </h2></a>
 
-<h3>Mos harroni se duhet te paraqiteni ne daten 10/06/2023</h3>
+<h3>Mos harroni se duhet te paraqiteni ne daten 13/06/2024</h3>
 <a href="https://www.expocity.al/en/" target="_blank"><h2>Per me shume informacion futuni te linku i faqes sone kryesore</h2></a>
 
 <h1 align="center"style="background-color:hsla(9, 100%, 64%, 0.5);">SUKSESE !</h1>
