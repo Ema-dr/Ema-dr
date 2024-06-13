@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Regjistrimi i ExpoCity Tirane</title>
+
 </head>
 
 <body>
